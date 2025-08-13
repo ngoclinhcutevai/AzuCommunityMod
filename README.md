@@ -1,6 +1,6 @@
 ![Minecraft (Azu's Community Mod)](https://cdn.modrinth.com/data/cached_images/b98e282d9a6ab314504e964870ee8974cedda8eb.png)
 
-A **surprisingly** stable mod from a mod maker who only knows basic Java & NeoForge knowledge.
+A **surprisingly** stable mod from a person who knows nothing about modding.
 # 📘 Features
 - **Sandshroom**: What item could be inside of a small sandshroom house? Only one way to find out!
 - More coming **soon**™....
