@@ -2,8 +2,7 @@
 
 A **surprisingly** stable mod from a person who knows nothing about modding.
 # 📘 Features
-- **Sandshroom**: What item could be inside of a small sandshroom house? Only one way to find out!
-- More coming **soon**™....
+- Coming **soon**™....
 
 # 🛠️ Issues/Ideas
 Post your issues/ideas to this mod's [GitHub repo](https://github.com/ngoclinhcutevai/AzuCommunityMod/issues) with the corresponding labels.\
