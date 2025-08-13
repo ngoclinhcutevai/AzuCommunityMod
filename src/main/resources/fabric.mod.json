@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "azu-cm",
+	"version": "${version}",
+	"name": "Azu's Community Mod",
+	"description": "A surprisingly stable mod from a person who knows nothing about modding.",
+	"authors": [
+		"ngoclin.h!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC BY-NC-SA 4.0",
+	"icon": "assets/azu-cm/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.ngoclinh.acm.AzusCommunityMod"
+		],
+		"fabric-datagen": [
+			"com.ngoclinh.acm.AzusCommunityModDataGenerator"
+		],
+        "client": [
+          "com.ngoclinh.acm.AzusCommunityModClient"
+        ]
+	},
+	"mixins": [
+		"azu-cm.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
