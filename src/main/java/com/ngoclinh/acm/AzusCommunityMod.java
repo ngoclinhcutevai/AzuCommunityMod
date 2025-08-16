@@ -1,5 +1,6 @@
 package com.ngoclinh.acm;
 
+import com.ngoclinh.acm.block.ModBlocks;
 import com.ngoclinh.acm.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,7 +13,9 @@ public class AzusCommunityMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-        ModItems.registerModItems();
+        ModItems.initialize();
+        ModBlocks.initialize();
+        ModItemGroup.initialize();
 		LOGGER.info("Hello from ngoclin.h!");
 	}
 }
