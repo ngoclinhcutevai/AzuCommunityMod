@@ -1,6 +1,6 @@
 package com.ngoclinh.acm;
 
-import com.ngoclinh.acm.block.ModBlocks;
+import com.ngoclinh.acm.item.ModItems;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -14,7 +14,7 @@ public class ModItemGroup {
 
     public static final RegistryKey<ItemGroup> AZU_TAB_KEY = RegistryKey.of(Registries.ITEM_GROUP.getKey(), Identifier.of(AzusCommunityMod.MOD_ID, "item_group"));
     public static final ItemGroup AZU_ITEM_GROUP = FabricItemGroup.builder()
-            .icon(() -> new ItemStack(ModBlocks.ECLIPSITE_BLOCK))
+            .icon(() -> new ItemStack(ModItems.ECLIPSITE))
             .displayName(Text.translatable("itemGroup.azu-cm"))
             .build();
 
