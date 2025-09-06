@@ -7,6 +7,7 @@
 	"authors": [
 		"ngoclin.h!"
 	],
+  "badges": ["library"],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/ngoclinhcutevai/AzuCommunityMod"
@@ -36,5 +37,10 @@
 	},
 	"suggests": {
 		"another-mod": "*"
-	}
+	},
+    "custom": {
+      "modmenu": {
+        "update_checker": true
+      }
+    }
 }

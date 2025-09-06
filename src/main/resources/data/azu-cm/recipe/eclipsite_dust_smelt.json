@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": "azu-cm:eclipsite_dust",
+  "result": {
+    "id": "azu-cm:eclipsite"
+  },
+  "experience": 2,
+  "cookingtime": 600
+}

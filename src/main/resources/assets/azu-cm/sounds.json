@@ -1,0 +1,26 @@
+{
+  "disc_blue": {
+    "sounds": [
+      {
+        "name": "azu-cm:disc_blue",
+        "stream": true
+      }
+    ]
+  },
+  "disc_horizon": {
+    "sounds": [
+      {
+        "name": "azu-cm:disc_horizon",
+        "stream": true
+      }
+    ]
+  },
+  "disc_clouds": {
+    "sounds": [
+      {
+        "name": "azu-cm:disc_clouds",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -5,7 +5,9 @@
   "item.azu-cm.disc_clouds": "Music Disc",
   "item.azu-cm.eclipsite_block": "Eclipsite Block",
   "item.azu-cm.eclipsite": "Eclipsite",
+  "item.azu-cm.eclipsite_dust": "Eclipsite Dust",
   "item.azu-cm.disc_blue_desc": "ngoclin.h - Sky Blue",
-  "item.azu-cm.disc_horizon_desc": "ngoclin.h - Horizon",
-  "item.azu-cm.disc_clouds_desc": "ngoclin.h - Clouds on the Sky"
+  "item.azu-cm.disc_horizon_desc": "ngoclin.h - Dreamy Horizon",
+  "item.azu-cm.disc_clouds_desc": "ngoclin.h - Clouds on the Sky",
+
 }

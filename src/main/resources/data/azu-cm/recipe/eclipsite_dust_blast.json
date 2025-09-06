@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": "azu-cm:eclipsite_dust",
+    "result": {
+        "id": "azu-cm:eclipsite"
+    },
+    "experience": 2,
+    "cookingtime": 300
+}
